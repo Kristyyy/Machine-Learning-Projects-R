@@ -38,3 +38,19 @@ I selected the power consumption in telecommunication networks, which operates p
 The data set includes information about:
 - Datatime - Show power consumption in each timestamp and date.
 - Power consumption in telecommunication networks - the volume that the power was used
+
+## Application of Tree methods and Random forests in Telecom Industry
+
+### Introduction and overview
+- Using Tree methods and Random forests to predict customer churn in telecom industry
+
+Goal: To know more about what make the customer churn and predicting if he/she will churn or not.
+
+Data set: The data was downloaded from IBM Sample Data Sets for customer retention programs. You can download it from here: https://www.kaggle.com/blastchar/telco-customer- churn/download
+
+The data set includes information about:
+  
+- Customers who left within the last month – the column is called Churn Services that each customer has signed up for – phone, multiple lines, internet, online
+security, online backup, device protection, tech support, and streaming TV and movies
+- Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
+- Demographic info about customers – gender, age range, and if they have partners and dependents
