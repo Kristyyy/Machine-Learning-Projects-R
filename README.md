@@ -8,5 +8,6 @@ Predict the selling prices of houses in the region:
 You are in market to buy 4 bedrooms, 2 baths and 2 storied houses with approx lot size of 5500 SFT in specific area. You would like to gather historical sales data and analyze for bidding the right price for the house.
 
 Based on the housing sales history data provide the following:
+
 • Comparative study of house sale in specific region
 • Identify house price variation
