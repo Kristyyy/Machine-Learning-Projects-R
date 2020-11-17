@@ -42,7 +42,7 @@ The data set includes information about:
 ## Application of Tree methods and Random forests in Telecom Industry
 
 ### Introduction and overview
-- Using Tree methods and Random forests to predict customer churn in telecom industry
+#### Using Tree methods and Random forests to predict customer churn in telecom industry
 
 Goal: To know more about what make the customer churn and predicting if he/she will churn or not.
 
