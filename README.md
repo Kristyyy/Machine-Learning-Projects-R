@@ -10,4 +10,5 @@ You are in market to buy 4 bedrooms, 2 baths and 2 storied houses with approx lo
 Based on the housing sales history data provide the following:
 
 • Comparative study of house sale in specific region
+
 • Identify house price variation
