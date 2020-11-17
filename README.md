@@ -16,7 +16,7 @@ Based on the housing sales history data provide the following:
 ## Application of k-NN and Time-Series Forecasting in Telecom Industry
 ### Introduction and overview
 
-##- Using k-NN to predict customer churn in telecom industry
+#### Using k-NN to predict customer churn in telecom industry
 
 Goal: To know more about what make the customer churn and predicting if he/she will churn or not.
 Data set: The data was downloaded from IBM Sample Data Sets for customer retention programs. You can download it from here: https://www.kaggle.com/blastchar/telco-customer- churn/download
@@ -29,7 +29,7 @@ The data set includes information about:
 - Demographic info about customers – gender, age range, and if they have partners and dependents
 
 
-##- Using Time Series Forecasting to predict the power consumption in telecommunication networks
+#### Using Time Series Forecasting to predict the power consumption in telecommunication networks
 
 Goal: Applied time series forecasting method 
 
