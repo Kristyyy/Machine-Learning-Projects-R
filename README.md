@@ -1,5 +1,3 @@
-# Machine_Learning_Projects_R
-Using R to conduct multiple predictions on different industries
 
 # Machine-Learning-Project
-These are my projects for machine learning. I use regression analysis, logistic regression, hypothesis testing, time series and differnt models to train my data.
+These are my projects for machine learning. I use regression analysis, logistic regression, hypothesis testing, time series and differnt models with R to train my data and propose better decisions for the company.
